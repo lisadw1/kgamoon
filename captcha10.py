@@ -1,6 +1,5 @@
 import os
 os.system("pip install captcha")
-os.system("pip install secrets")
 import sys
 from captcha.image import ImageCaptcha
 import random
